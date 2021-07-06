@@ -1,4 +1,4 @@
-## :information_source:Aboute me
+## :information_source: Aboute me
 
 - 🌱 I’m currently learning React Native.
 - 🇧🇷 Born in Salvador-BA
