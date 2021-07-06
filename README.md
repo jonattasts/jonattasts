@@ -1,3 +1,5 @@
+### Hi there 👋:raising_hand:💻
+
 ## :information_source: About me
 
 - 🌱 I’m currently learning React Native.
