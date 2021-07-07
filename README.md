@@ -1,4 +1,4 @@
-### Hi there 👋:raising_hand:💻
+### Hi there 👋 🙋🏻‍♂️ 💻
 
 ## :information_source: About me
 
