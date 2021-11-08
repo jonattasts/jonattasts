@@ -8,7 +8,7 @@
 - :mortar_board: Graduating in Systems Analysis and Development from the Federal Institute of Bahia.
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/jonatas-s-santos/)
 
-### Languages 👩‍💻
+### Languages :man_technologist:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
