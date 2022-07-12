@@ -36,11 +36,11 @@
 ### IDE💻
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonatasts&theme=dracula)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonatasts&theme=dracula) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonatasts&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonatasts&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonatasts&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonatasts&theme=dracula)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonatasts&theme=dracula) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonatasts&theme=dracula) -->
 
 <p align="left">
 <a href="https://github.com/jonatasts">
