@@ -24,13 +24,13 @@
 ### Frameworks 🚀
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)&nbsp;
-<!-- ![Laravel](https://img.shields.io/badge/Laravel-FF2C1F?style=for-the-badge&logo=laravel&logoColor=61DAFB)&nbsp; -->
-<!-- ![WordPress](https://img.shields.io/badge/Wordpress-418FD1?style=for-the-badge&logo=wordpress&logoColor=61DAFB)&nbsp; -->
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+<!-- ![Laravel](https://img.shields.io/badge/Laravel-FF2C1F?style=for-the-badge&logo=laravel&logoColor=61DAFB)&nbsp; -->
+<!-- ![WordPress](https://img.shields.io/badge/Wordpress-418FD1?style=for-the-badge&logo=wordpress&logoColor=61DAFB)&nbsp; -->
 <!-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp; -->
 
 <!-- 
