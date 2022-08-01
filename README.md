@@ -33,15 +33,17 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 <!-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp; -->
 
+<!-- 
 ### IDE💻
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-
+-->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonatasts&theme=dracula) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonatasts&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonatasts&theme=dracula)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonatasts&theme=dracula) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonatasts&theme=dracula)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonatasts&theme=dracula) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonatasts&theme=dracula) -->
 
+<!--
 <p align="left">
 <a href="https://github.com/jonatasts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatasts&show_icons=true&theme=dracula"/>
@@ -50,3 +52,4 @@
 </p>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=jonatasts" alt="visitors"/>
+-->
