@@ -2,9 +2,9 @@
 
 ## :information_source: About me
 
-- 🌱 I’m currently learning and working with React Native.
+- 🌱 I’m currently learning and working with Angular and ASP.Net Core & EF.
 - 🇧🇷 Born in Salvador-BA
-- :man_technologist: Mobile Developer at ![App2Sales](https://github.com/App2Sales/)
+- :man_technologist: Full Stack Developer at CONDER by Produs TI
 - :mortar_board: Graduated in Systems Analysis and Development from the Federal Institute of Bahia.
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/jonatas-s-santos/)
 
@@ -14,6 +14,7 @@
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/c%23-823085.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 <!-- ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp; -->
 <!-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp; -->
 
@@ -25,6 +26,7 @@
 ![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=B52E31)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)&nbsp;
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
