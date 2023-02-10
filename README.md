@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning and working with Angular and ASP.Net Core & EF.
 - 🇧🇷 Born in Salvador-BA
-- :man_technologist: Full Stack Developer at CONDER by Produs TI
+- :man_technologist: Full Stack Developer at Produs TI
 - :mortar_board: Graduated in Systems Analysis and Development from the Federal Institute of Bahia.
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/jonatas-s-santos/)
 
