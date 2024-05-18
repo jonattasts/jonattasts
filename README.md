@@ -9,11 +9,12 @@
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/jonatas-s-santos/)
 
 ### Languages :man_technologist:
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+
+![PHP](https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 <!-- ![C#](https://img.shields.io/badge/c%23-823085.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp; -->
 <!-- ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp; -->
 <!-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp; -->
