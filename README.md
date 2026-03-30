@@ -2,7 +2,7 @@
 
 ## :information_source: About me
 
-- 🌱 I’m currently learning and working with Angular and ASP.Net Core & EF.
+- 🌱 I’m currently working with Ionic, Angular and Laravel API.
 - 🇧🇷 Born in Salvador-BA
 - :man_technologist: Full Stack Developer at Produs TI
 - :mortar_board: Graduated in Systems Analysis and Development from the Federal Institute of Bahia.
